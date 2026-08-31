@@ -1,0 +1,1505 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="343.429mm" height="200.29mm" version="1.1">
+<title>TEMP_1d5r5uv16ndwi116r7osm0sphbqw</title>
+<desc>Rendered by Tableau</desc>
+<defs>
+<clipPath id="clipPath1">
+<path vector-effect="none" fill-rule="evenodd" d="M48,705 L1299,705 L1299,758 L48,758 L48,705"/>
+</clipPath>
+<clipPath id="clipPath2">
+<path vector-effect="none" fill-rule="evenodd" d="M-1,-1 L50,-1 L50,707 L-1,707 L-1,-1"/>
+</clipPath>
+<clipPath id="clipPath3">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath4">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath5">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath6">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath7">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath8">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath9">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath10">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath11">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath12">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath13">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath14">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath15">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath16">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath17">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath18">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath19">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath20">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath21">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath22">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath23">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath24">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath25">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath26">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath27">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath28">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath29">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath30">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath31">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath32">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath33">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath34">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath35">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath36">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath37">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath38">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath39">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath40">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath41">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath42">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath43">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath44">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath45">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath46">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath47">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath48">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath49">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath50">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath51">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath52">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath53">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath54">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath55">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath56">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath57">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath58">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath59">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath60">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath61">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath62">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath63">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath64">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath65">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath66">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath67">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath68">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath69">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath70">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath71">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath72">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath73">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath74">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath75">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath76">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath77">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath78">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath79">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath80">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath81">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath82">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath83">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath84">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath85">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath86">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath87">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath88">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath89">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath90">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath91">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath92">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath93">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath94">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath95">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath96">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath97">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath98">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath99">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath100">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath101">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath102">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath103">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath104">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath105">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath106">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath107">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath108">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath109">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath110">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath111">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath112">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath113">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath114">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath115">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath116">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath117">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath118">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath119">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath120">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath121">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath122">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath123">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath124">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath125">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath126">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath127">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath128">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath129">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath130">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath131">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath132">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath133">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath134">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath135">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath136">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath137">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath138">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath139">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath140">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath141">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath142">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath143">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath144">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath145">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath146">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath147">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath148">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath149">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath150">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath151">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath152">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath153">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath154">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath155">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath156">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath157">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath158">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1298,0 L1298,706 L49,706 L49,0"/>
+</clipPath>
+<clipPath id="clipPath159">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath160">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath161">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+<clipPath id="clipPath162">
+<path vector-effect="none" fill-rule="evenodd" d="M49,0 L1299,0 L1299,707 L49,707 L49,0"/>
+</clipPath>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel">
+
+<g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1298" height="757"/>
+</g>
+
+<g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1298" height="757"/>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="0,0 0,5 "/>
+<polyline fill="none" vector-effect="none" points="78,0 78,5 "/>
+<polyline fill="none" vector-effect="none" points="156,0 156,5 "/>
+<polyline fill="none" vector-effect="none" points="234,0 234,5 "/>
+<polyline fill="none" vector-effect="none" points="312,0 312,5 "/>
+<polyline fill="none" vector-effect="none" points="390,0 390,5 "/>
+<polyline fill="none" vector-effect="none" points="468,0 468,5 "/>
+<polyline fill="none" vector-effect="none" points="546,0 546,5 "/>
+<polyline fill="none" vector-effect="none" points="624,0 624,5 "/>
+<polyline fill="none" vector-effect="none" points="702,0 702,5 "/>
+<polyline fill="none" vector-effect="none" points="780,0 780,5 "/>
+<polyline fill="none" vector-effect="none" points="858,0 858,5 "/>
+<polyline fill="none" vector-effect="none" points="936,0 936,5 "/>
+<polyline fill="none" vector-effect="none" points="1014,0 1014,5 "/>
+<polyline fill="none" vector-effect="none" points="1092,0 1092,5 "/>
+<polyline fill="none" vector-effect="none" points="1170,0 1170,5 "/>
+<polyline fill="none" vector-effect="none" points="1248,0 1248,5 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1.51563" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">0</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="74.5156" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">1</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="152.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">2</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="230.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">3</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="308.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">4</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="386.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">5</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="464.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">6</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="542.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">7</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="620.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">8</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="698.516" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">9</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="773.047" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">10</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="851.047" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">11</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="929.047" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">12</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1007.05" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">13</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1085.05" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">14</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1163.05" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">15</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1233.05" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">16</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath1)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="576.953" y="41" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">Avg. Discount Pct</text>
+</g>
+</g>
+
+<g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,706)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="44,706 49,706 "/>
+<polyline fill="none" vector-effect="none" points="44,665 49,665 "/>
+<polyline fill="none" vector-effect="none" points="44,625 49,625 "/>
+<polyline fill="none" vector-effect="none" points="44,584 49,584 "/>
+<polyline fill="none" vector-effect="none" points="44,544 49,544 "/>
+<polyline fill="none" vector-effect="none" points="44,503 49,503 "/>
+<polyline fill="none" vector-effect="none" points="44,462 49,462 "/>
+<polyline fill="none" vector-effect="none" points="44,422 49,422 "/>
+<polyline fill="none" vector-effect="none" points="44,381 49,381 "/>
+<polyline fill="none" vector-effect="none" points="44,341 49,341 "/>
+<polyline fill="none" vector-effect="none" points="44,300 49,300 "/>
+<polyline fill="none" vector-effect="none" points="44,259 49,259 "/>
+<polyline fill="none" vector-effect="none" points="44,219 49,219 "/>
+<polyline fill="none" vector-effect="none" points="44,178 49,178 "/>
+<polyline fill="none" vector-effect="none" points="44,138 49,138 "/>
+<polyline fill="none" vector-effect="none" points="44,97 49,97 "/>
+<polyline fill="none" vector-effect="none" points="44,56 49,56 "/>
+<polyline fill="none" vector-effect="none" points="44,16 49,16 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="35.0469" y="703" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">0</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="35.0469" y="670" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">2</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="35.0469" y="630" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">4</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="35.0469" y="589" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">6</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="35.0469" y="549" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">8</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="508" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">10</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="467" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">12</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="427" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">14</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="386" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">16</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="346" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">18</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="305" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">20</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="264" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">22</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">24</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="183" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">26</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">28</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">30</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="61" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">32</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="28.0938" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">34</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1,1,0,19,397.57)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">Avg. Liked Count</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+
+<g clip-path="url(#clipPath2)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath3)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath4)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath4)"><g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1250" height="707"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath4)"><g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1250" height="707"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath5)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath5)"><g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1250" height="707"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath6)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath7)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath8)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath9)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath9)"><g fill="none" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<rect x="0" y="0" width="1250" height="707"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath10)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath11)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath12)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath13)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath14)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath15)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath16)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath17)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath18)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath19)"><g fill="none" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath19)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="0,706 1249,706 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath20)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath21)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath21)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="0,705 0,0 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath22)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath23)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath24)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath25)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath26)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath27)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath28)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath29)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath30)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath31)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath32)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath33)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath34)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath35)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath36)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath37)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath38)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath39)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath40)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath41)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath42)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath43)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath44)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath45)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath46)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath47)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="none" stroke="#cbcbcb" stroke-opacity="1" stroke-dasharray="1,2" stroke-dashoffset="0" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#d37295" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="455.513" cy="575.991" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#59a14f" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="564.162" cy="524.811" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#76b7b2" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="711.348" cy="541.685" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#e15759" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="978.13" cy="501.81" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#f28e2b" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="1095.9" cy="392.841" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath48)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<circle cx="1185.26" cy="38.881" r="5"/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath49)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath50)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath51)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath52)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath53)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="#4e79a7" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1133" y="57" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">1. Under TWD 100</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="1049" y="411" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">2. TWD 100-499</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="931" y="520" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">3. TWD 500-999</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="655" y="560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">4. TWD 1,000-2,999</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="508" y="543" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">5. TWD 3,000-9,999</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath54)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="410" y="594" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">6. TWD 10,000+</text>
+</g>
+</g>
+
+<g clip-path="url(#clipPath55)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath56)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath57)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath58)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath59)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath60)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath61)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath62)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath63)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath64)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath65)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath66)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath67)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath68)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath69)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath70)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath71)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath72)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath73)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath74)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath75)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath76)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath77)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath78)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath79)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath80)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath81)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath82)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath83)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath84)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath85)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath86)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath87)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath88)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath89)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath90)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath91)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath92)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath93)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath94)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath95)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath96)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath97)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath98)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath99)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath100)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath101)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath102)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath103)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath104)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath105)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath106)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath107)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath108)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath109)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath110)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath111)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath112)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath113)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath114)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath115)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath116)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath117)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath118)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath119)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath120)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath121)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath122)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath123)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath124)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath125)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath126)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath127)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath128)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath129)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath130)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath131)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath132)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath133)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath134)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath135)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath136)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath137)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath138)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath139)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath140)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath141)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath142)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath143)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath144)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath145)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath146)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath147)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath148)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath149)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath150)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath150)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="844,0 844,706 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath151)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath152)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath152)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="0,513 1249,513 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath153)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath154)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath155)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath156)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath157)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath158)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath159)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath160)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath161)"><g fill="none" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="butt" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g clip-path="url(#clipPath161)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+<polyline fill="none" vector-effect="none" points="0,706 1249,706 "/>
+<polyline fill="none" vector-effect="none" points="0,0 0,706 "/>
+</g>
+</g>
+
+<g clip-path="url(#clipPath162)"><g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+
+<g fill="none" stroke="#f5f5f5" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,49,0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" font-style="normal">
+</g>
+</g>
+</svg>
